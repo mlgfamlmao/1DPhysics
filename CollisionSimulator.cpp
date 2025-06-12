@@ -2,7 +2,7 @@
 #include "raylib.h"
 using namespace std;
 
-//AI is used to add comments and clean up code;
+
 
 const int ScreenWidth = 2000;
 const int ScreenHeight = 800;
