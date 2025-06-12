@@ -1,0 +1,22 @@
+﻿  CollisionSimulator.cpp
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(242,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(242,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(243,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(243,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(245,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(245,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(246,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(246,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(288,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(289,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(328,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(328,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(329,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(329,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(331,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(331,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(332,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nandu\source\repos\CollisionSimulator\CollisionSimulator.cpp(332,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CollisionSimulator.vcxproj -> C:\Users\nandu\source\repos\CollisionSimulator\x64\Debug\CollisionSimulator.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
